@@ -1,31 +1,36 @@
-<div align=center><h1>📚Stacks📚</h1>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FC4C02?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=000000"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+<div align = "center">
+
+# Hello, I'm SooKyung👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-soo&count_bg=%23D3A0D5&title_bg=%23EF9595&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://https://github.com/yoo-soo)
+
+![1122](https://github.com/yoo-soo/yoo-soo/assets/80819675/aa4ebeaf-b665-493f-a72f-3cceea877791)
+
+안녕하세요!<br/>
+어제의 '나'를 이기는 것을 목표로<br/>
+늘 성장하고 노력하는 IPS 엔진 개발자 입니다.
+
+* * * * * * * *
+
+## 🛠 Develop Stack 🛠
+<div>
+<img src="https://img.shields.io/badge/C-83B81A?style=flat-square&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-FCC624?style=flat-square&logo=JAVA&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-3874D8?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-A9225C?style=flat-square&logo=Azure DevOps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-FF61F6?style=flat-square&logo=VMware&logoColor=black"/>
 </div>
 
-<div align=center>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/java-4B4B77?style=flat-square&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+## 🥝 Follow Me 🥝
+<a href="https://ysoo0103.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF9E0F?style=flat-square&logo=Tistory&logoColor=white&link=https://sienna1022.tistory.com/"/></a>
+<a href="https://github.com/yoo-soo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yoo-soo"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-soo&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=dracula)
+
 </div>
-
-<br>
-<br>
-
-<div align=center><h1>📃Research Activities📃</h1></div>
-
-      한국융합보안학회 하계학술대회 "윈도우 SHELL BAG을 활용한 정보유출 침해사고 대응 기술 연구" ( 2021.8 )
-     
-      한국디지털포렌식학회 동계학술대회 "윈도우 11버전 환경에서 CLI 기반 라이브 포렌식 모듈 적용 연구" ( 2021.11 ) 
-     
-      한국융합보안학회 하계학술대회 "메타버스 환경에서 금융서비스 보안 위협 연구" ( 2022.7 ) 
-     
-      한국정보보호학회 동계학술대회 "IVN 데이터 분석 침입탐지 및 이상탐지" ( 2022.11 )
-
-<br>
-<br>
-
-<div align=center><h1>🏆Awards🏆</h1></div>
-
-     🥉2021 한국융합보안학회 하계학술대회 "윈도우 SHELL BAG을 활용한 정보유출 침해사고 대응 기술 연구" 논문 발표 - 장려 ( 2021.8 )
-    
-     🥉2022 한국융합보안학회 하계학술대회 "메타버스 환경에서 금융서비스 보안 위협 연구" 논문 발표 - 장려 ( 2022.7 )
-    
-     🥇2022 한국정보보호학회 동계학술대회 "CAN 프레임 간격 기반 침입 탐지 방법론" 논문 발표 - 학회우수논문 ( 2022.11 )
