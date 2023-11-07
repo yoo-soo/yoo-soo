@@ -2,7 +2,7 @@
 
 # Hello, I'm SooKyung👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-soo&count_bg=%23D3A0D5&title_bg=%23EF9595&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://https://github.com/yoo-soo)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-soo&count_bg=%23D3A0D5&title_bg=%23EF9595&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yoo-soo)
 
 ![1122](https://github.com/yoo-soo/yoo-soo/assets/80819675/aa4ebeaf-b665-493f-a72f-3cceea877791)
 
