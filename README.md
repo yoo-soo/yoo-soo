@@ -15,12 +15,8 @@
 ## 🛠 Develop Stack 🛠
 <div>
 <img src="https://img.shields.io/badge/C-83B81A?style=flat-square&logo=C&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-FCC624?style=flat-square&logo=JAVA&logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Kubernetes-3874D8?style=flat-square&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-A9225C?style=flat-square&logo=Azure DevOps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
