@@ -2,19 +2,12 @@
 
 # Hello, I'm SooKyung👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-soo&count_bg=%23D3A0D5&title_bg=%23EF9595&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yoo-soo)
-
-![1122](https://github.com/yoo-soo/yoo-soo/assets/80819675/aa4ebeaf-b665-493f-a72f-3cceea877791)
-
-안녕하세요!<br/>
-어제의 '나'를 이기는 것을 목표로<br/>
-늘 성장하고 노력하는 IPS 엔진 개발자 입니다.
-
 * * * * * * * *
 
 ## 🛠 Develop Stack 🛠
 <div>
 <img src="https://img.shields.io/badge/C-83B81A?style=flat-square&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><br/>
